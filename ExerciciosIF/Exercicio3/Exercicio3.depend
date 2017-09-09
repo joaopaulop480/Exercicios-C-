@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503516046 source:c:\users\fatec\desktop\ling. prog\exercicios if\exercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
