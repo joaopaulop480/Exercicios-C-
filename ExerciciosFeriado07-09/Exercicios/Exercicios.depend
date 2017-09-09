@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504966515 source:c:\users\fatec\desktop\ling. prog\exercicios feriado 07-09\exercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
